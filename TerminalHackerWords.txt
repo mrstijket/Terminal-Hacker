@@ -1,0 +1,5 @@
+level1passwords = { "brave", "human", "sugar", "skirt", "light", "pencil" };
+level2passwords = { "screen", "online", "report", "client", "fireman", "machine" };
+level3passwords = { "traditional", "security", "president", "prevent", "system", "assault" };
+level27passwords = { "undefined", "censored", "project", "reality", "organization", "facility" };
+level94passwords = { "computer", "terminal", "hacker", "password", "guess", "keyboard" };
